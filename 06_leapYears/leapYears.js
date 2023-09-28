@@ -13,7 +13,7 @@ const leapYears = function(year) {
     return result;
 }
 
-console.log(leapYears(1997));
+//console.log(leapYears(1997));
 
 // Do not edit below this line
 module.exports = leapYears;
